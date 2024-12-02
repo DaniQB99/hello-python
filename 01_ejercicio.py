@@ -1,12 +1,12 @@
 # 1. Declara y asigna valores a las siguientes variables:
 
-# â€¢	name: una cadena que contenga tu nombre.
+#	name: una cadena que contenga tu nombre.
 name = 'Daniel Quiros Barroso'
-# â€¢	age: un numero entero que represente tu edad.
+#	age: un numero entero que represente tu edad.
 age = 25
-# â€¢	height: un numero flotante que represente tu altura.
+#	height: un numero flotante que represente tu altura.
 height = 1.75
-# â€¢	Imprime cada variable en una lÃ­nea separada.
+#	Imprime cada variable en una lÃ­nea separada.
 print(name)
 print(age)
 print(height)
