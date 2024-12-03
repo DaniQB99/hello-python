@@ -1,3 +1,5 @@
+### VARIABLES ###
+
 str_variable = 'My String Variable'
 print(str_variable)
 
@@ -28,4 +30,6 @@ a tener otro tipo de valor.
     int -> string
     int -> bool
     ...
+
+    Por mucho que se especifique el tipo de variable, si se le introduce otro valor lo acepta.
 """
