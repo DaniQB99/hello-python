@@ -14,8 +14,11 @@ print(f'{my_person.name}{my_person.age}')
 # Clase con atributos asociados a un atributo 
 class Person: 
     def __init__(self, name, surname, age = 25): # __init__ es un metodo especial que se ejecuta cuando se crea una nueva instancia de la clase
-        self.full_name = f'{name} {surname} {age}'
+        self.full_name = f'{name} {surname} {age}' # Propiedad pública
+        self.__name = name # Propiedad privada
  
+    def get_name(self):
+        return self.__name
     def walk(self): 
         print(f'Hola {self.full_name} esta caminando')
 
