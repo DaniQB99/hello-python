@@ -1,2 +1,2 @@
 # hello-python
-Curso Online de Python desde cero. Curso impartido por mouredev pro. 
+Curso online de Python desde cero. Curso impartido por Mouredev pro. 
